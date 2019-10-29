@@ -59,7 +59,7 @@ Note that the following labs will not be part of the AZ-103 course:
 
 * PowerShell scripts in all labs use the current version of Azure PowerShell Az module.
 
-* Although not required, it is a good idea to deprovision any existing resources when you have completed each lab. This will help mitigate the risk of exceeding the default vCPU quota limits and minimize usage charges.
+* Although not required, it is a good idea to deprovision any existing resources when you complete each lab. This will help mitigate the risk of exceeding the default vCPU quota limits and minimize usage charges.
 
 * Availability of Azure regions and resources in these regions depends to some extent on the type of subscription you are using. To identify Azure regions available in your subscription, refer to https://azure.microsoft.com/en-us/regions/offers/ . To identify resources available in these regions, refer to https://azure.microsoft.com/en-us/global-infrastructure/services/ . These restrictions might result in failures during template validation or template deployment, in particular when provisioning Azure VMs. If this happens, review error messages and retry deployment with a different VM size or a different region.
 
